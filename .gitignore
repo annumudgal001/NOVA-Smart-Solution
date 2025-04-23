@@ -1,0 +1,19 @@
+Python and virtual environment
+
+pycache/ *.pyc *.pyo *.pyd .Python env/ venv/ ENV/ *.env *.egg-info/ dist/ build/ *.whl
+
+IDE and editor files
+
+.vscode/ .idea/ *.sublime-project *.sublime-workspace
+
+System files
+
+.DS_Store Thumbs.db
+
+Project-specific
+
+data/ChatLog.json *.log *.tmp *.bak frontend/Files/speech.mp3
+
+Cache and temporary files
+
+*.cache *.swp *.swo
